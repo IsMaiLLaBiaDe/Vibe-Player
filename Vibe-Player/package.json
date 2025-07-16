@@ -1,0 +1,19 @@
+{
+  "name": "vibe-player",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "IsMaiL-LaBiaDe",
+  "license": "ISC",
+  "description": "Audio",
+  "repository": {
+    "type": "git",
+    "url": "i"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
